@@ -14,8 +14,8 @@ plugins/pokemon/images/counterred.png	https://pkmncards.com/lackey/images/counte
 plugins/pokemon/images/counterwhite.png	https://pkmncards.com/lackey/images/counterwhite.png	591802
 
 plugins/pokemon/ListOfCardDataFiles.txt	https://pkmncards.com/lackey/ListOfCardDataFiles.txt	12906
-plugins/pokemon/sets/carddata.txt	https://raw.githubusercontent.com/dubudevs/carddata/blob/main/carddata.txt	32385933
-plugins/pokemon/sets/carddata2.txt	https://pkmncards.com/lackey/carddata2.txt	66500253
+plugins/pokemon/sets/carddata.txt	https://raw.githubusercontent.com/dubudevs/carddata/main/carddata.txt	32385933
+plugins/pokemon/sets/carddata2.txt	https://raw.githubusercontent.com/dubudevs/carddata/main/carddata2.txt	66500253
 plugins/pokemon/formats.txt	https://pkmncards.com/lackey/formats.txt	1239166
 
 plugins/pokemon/packs/packdefinitions1.xml	https://pkmncards.com/lackey/packs/packdefinitions1.xml	13995990
